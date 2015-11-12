@@ -50,3 +50,9 @@ Output 3:
 Sales Taxes: 6.70
 Total: 74.68
 ```
+
+## General requirements
+- You may use whatever programming language/platform you prefer. Use something that you know well.
+- You must release your work with an OSI-approved open source license of your choice.
+- You must deliver the sources of your application, with a README that explains how to compile and run it.
+
