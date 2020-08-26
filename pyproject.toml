@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "sales-taxes-problem"
+description = "the sales taxes problem"
+version = "1.0.0"
+authors = ["angelo"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[tool.poetry.dev-dependencies]
+black = "19.10b0"
+isort = "~4.3.21"
+mypy = "0.770"
+pytest = "~5.4.3"
+pytest-cov = "~2.10.0"
+
+
+[tool.black]
+line-length = 100
+target-version = ['py38']
+exclude = '''
+(
+    \.idea |
+    \.DS_Store |
+    \.githooks |
+    \.vscode |
+    venv |
+    .html |
+    .json |
+    .pyc |
+    .sql
+)
+'''

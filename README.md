@@ -1,7 +1,17 @@
 # Sales taxes problem
 This problem requires some kind of input. You are free to implement any mechanism for feeding input into your solution (for example, using hard coded data within a unit test). You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data.
 
-## PROBLEM: SALES TAXES
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [Problem](#PROBLEM:-SALES-TAXES)
+* [Requirements](#General-requirements)
+* [Solution](#solution)
+* [Installation](#installation)
+* [Usage](#usage)
+
+
+### PROBLEM: SALES TAXES
 
 **Basic sales tax** is applicable at a rate of **10%** on all goods, **except** books, food, and medical products that are exempt. **Import duty** is an additional sales tax applicable on all imported goods at a rate of 5%, with no exemptions.
 
@@ -51,7 +61,7 @@ Sales Taxes: 7.90
 Total: 98.38
 ```
 
-## General requirements
+### General requirements
 - You may use whatever programming language/platform you prefer. Use something that you know well.
 - You must release your work with an OSI-approved open source license of your choice.
 - You must deliver the sources of your application, with a README that explains how to compile and run it.
@@ -59,4 +69,11 @@ Total: 98.38
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
 
+### Solution
+TODO
 
+### Installation
+TODO
+
+### Usage
+TODO

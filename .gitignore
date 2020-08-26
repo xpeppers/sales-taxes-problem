@@ -1,0 +1,17 @@
+*.pyc
+.venv
+.env
+.env-*
+.DS_Store
+.cache
+.mypy_cache/
+/dev/
+**/dev/
+dev/
+/test-reports/
+/coverage-reports/
+.coverage
+*.egg-info/
+
+/.idea/*
+!/.idea/runConfigurations/
